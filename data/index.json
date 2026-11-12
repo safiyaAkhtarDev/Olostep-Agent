@@ -1,0 +1,206 @@
+[
+  {
+    "slug": "get-started-welcome",
+    "url": "https://docs.olostep.com/get-started/welcome",
+    "title": "https://docs.olostep.com/get-started/welcome",
+    "file": "data\\pages\\get-started-welcome.md"
+  },
+  {
+    "slug": "get-started-authentication",
+    "url": "https://docs.olostep.com/get-started/authentication",
+    "title": "https://docs.olostep.com/get-started/authentication",
+    "file": "data\\pages\\get-started-authentication.md"
+  },
+  {
+    "slug": "get-started-cli",
+    "url": "https://docs.olostep.com/get-started/cli",
+    "title": "https://docs.olostep.com/get-started/cli",
+    "file": "data\\pages\\get-started-cli.md"
+  },
+  {
+    "slug": "x402",
+    "url": "https://docs.olostep.com/x402",
+    "title": "https://docs.olostep.com/x402",
+    "file": "data\\pages\\x402.md"
+  },
+  {
+    "slug": "features-scrapes",
+    "url": "https://docs.olostep.com/features/scrapes",
+    "title": "https://docs.olostep.com/features/scrapes",
+    "file": "data\\pages\\features-scrapes.md"
+  },
+  {
+    "slug": "features-crawls",
+    "url": "https://docs.olostep.com/features/crawls",
+    "title": "https://docs.olostep.com/features/crawls",
+    "file": "data\\pages\\features-crawls.md"
+  },
+  {
+    "slug": "features-maps",
+    "url": "https://docs.olostep.com/features/maps",
+    "title": "https://docs.olostep.com/features/maps",
+    "file": "data\\pages\\features-maps.md"
+  },
+  {
+    "slug": "features-batches",
+    "url": "https://docs.olostep.com/features/batches",
+    "title": "https://docs.olostep.com/features/batches",
+    "file": "data\\pages\\features-batches.md"
+  },
+  {
+    "slug": "features-answers",
+    "url": "https://docs.olostep.com/features/answers",
+    "title": "https://docs.olostep.com/features/answers",
+    "file": "data\\pages\\features-answers.md"
+  },
+  {
+    "slug": "features-search",
+    "url": "https://docs.olostep.com/features/search",
+    "title": "https://docs.olostep.com/features/search",
+    "file": "data\\pages\\features-search.md"
+  },
+  {
+    "slug": "features-monitors",
+    "url": "https://docs.olostep.com/features/monitors",
+    "title": "https://docs.olostep.com/features/monitors",
+    "file": "data\\pages\\features-monitors.md"
+  },
+  {
+    "slug": "features-files",
+    "url": "https://docs.olostep.com/features/files",
+    "title": "https://docs.olostep.com/features/files",
+    "file": "data\\pages\\features-files.md"
+  },
+  {
+    "slug": "features-schedules",
+    "url": "https://docs.olostep.com/features/schedules",
+    "title": "https://docs.olostep.com/features/schedules",
+    "file": "data\\pages\\features-schedules.md"
+  },
+  {
+    "slug": "features-feedbacks",
+    "url": "https://docs.olostep.com/features/feedbacks",
+    "title": "https://docs.olostep.com/features/feedbacks",
+    "file": "data\\pages\\features-feedbacks.md"
+  },
+  {
+    "slug": "features-agents",
+    "url": "https://docs.olostep.com/features/agents",
+    "title": "https://docs.olostep.com/features/agents",
+    "file": "data\\pages\\features-agents.md"
+  },
+  {
+    "slug": "features-skills",
+    "url": "https://docs.olostep.com/features/skills",
+    "title": "https://docs.olostep.com/features/skills",
+    "file": "data\\pages\\features-skills.md"
+  },
+  {
+    "slug": "features-structured-content-intro",
+    "url": "https://docs.olostep.com/features/structured-content/intro",
+    "title": "https://docs.olostep.com/features/structured-content/intro",
+    "file": "data\\pages\\features-structured-content-intro.md"
+  },
+  {
+    "slug": "features-structured-content-parsers",
+    "url": "https://docs.olostep.com/features/structured-content/parsers",
+    "title": "https://docs.olostep.com/features/structured-content/parsers",
+    "file": "data\\pages\\features-structured-content-parsers.md"
+  },
+  {
+    "slug": "features-structured-content-llm-extraction",
+    "url": "https://docs.olostep.com/features/structured-content/llm-extraction",
+    "title": "https://docs.olostep.com/features/structured-content/llm-extraction",
+    "file": "data\\pages\\features-structured-content-llm-extraction.md"
+  },
+  {
+    "slug": "balance-billing-balance-and-billing",
+    "url": "https://docs.olostep.com/balance-billing/balance-and-billing",
+    "title": "https://docs.olostep.com/balance-billing/balance-and-billing",
+    "file": "data\\pages\\balance-billing-balance-and-billing.md"
+  },
+  {
+    "slug": "sdks-overview",
+    "url": "https://docs.olostep.com/sdks/overview",
+    "title": "https://docs.olostep.com/sdks/overview",
+    "file": "data\\pages\\sdks-overview.md"
+  },
+  {
+    "slug": "sdks-python",
+    "url": "https://docs.olostep.com/sdks/python",
+    "title": "https://docs.olostep.com/sdks/python",
+    "file": "data\\pages\\sdks-python.md"
+  },
+  {
+    "slug": "sdks-node-js",
+    "url": "https://docs.olostep.com/sdks/node-js",
+    "title": "https://docs.olostep.com/sdks/node-js",
+    "file": "data\\pages\\sdks-node-js.md"
+  },
+  {
+    "slug": "cli-overview",
+    "url": "https://docs.olostep.com/cli/overview",
+    "title": "https://docs.olostep.com/cli/overview",
+    "file": "data\\pages\\cli-overview.md"
+  },
+  {
+    "slug": "cli-install",
+    "url": "https://docs.olostep.com/cli/install",
+    "title": "https://docs.olostep.com/cli/install",
+    "file": "data\\pages\\cli-install.md"
+  },
+  {
+    "slug": "cli-usage",
+    "url": "https://docs.olostep.com/cli/usage",
+    "title": "https://docs.olostep.com/cli/usage",
+    "file": "data\\pages\\cli-usage.md"
+  },
+  {
+    "slug": "cli-ai-agents",
+    "url": "https://docs.olostep.com/cli/ai-agents",
+    "title": "https://docs.olostep.com/cli/ai-agents",
+    "file": "data\\pages\\cli-ai-agents.md"
+  },
+  {
+    "slug": "cli-reference-web-data",
+    "url": "https://docs.olostep.com/cli/reference/web-data",
+    "title": "https://docs.olostep.com/cli/reference/web-data",
+    "file": "data\\pages\\cli-reference-web-data.md"
+  },
+  {
+    "slug": "cli-reference-jobs",
+    "url": "https://docs.olostep.com/cli/reference/jobs",
+    "title": "https://docs.olostep.com/cli/reference/jobs",
+    "file": "data\\pages\\cli-reference-jobs.md"
+  },
+  {
+    "slug": "cli-reference-account-billing",
+    "url": "https://docs.olostep.com/cli/reference/account-billing",
+    "title": "https://docs.olostep.com/cli/reference/account-billing",
+    "file": "data\\pages\\cli-reference-account-billing.md"
+  },
+  {
+    "slug": "cli-reference-support-integrations",
+    "url": "https://docs.olostep.com/cli/reference/support-integrations",
+    "title": "https://docs.olostep.com/cli/reference/support-integrations",
+    "file": "data\\pages\\cli-reference-support-integrations.md"
+  },
+  {
+    "slug": "cli-reference-cli-commands",
+    "url": "https://docs.olostep.com/cli/reference/cli-commands",
+    "title": "https://docs.olostep.com/cli/reference/cli-commands",
+    "file": "data\\pages\\cli-reference-cli-commands.md"
+  },
+  {
+    "slug": "examples-get-markdown-from-website",
+    "url": "https://docs.olostep.com/examples/get-markdown-from-website",
+    "title": "https://docs.olostep.com/examples/get-markdown-from-website",
+    "file": "data\\pages\\examples-get-markdown-from-website.md"
+  },
+  {
+    "slug": "examples-serp",
+    "url": "https://docs.olostep.com/examples/serp",
+    "title": "https://docs.olostep.com/examples/serp",
+    "file": "data\\pages\\examples-serp.md"
+  }
+]
